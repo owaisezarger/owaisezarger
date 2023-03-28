@@ -1,7 +1,16 @@
 ![github-header-image](https://user-images.githubusercontent.com/107459951/228209496-4860a742-ff56-46db-928a-8236f9a39ca3.png)
 
 # 💫 About Me:
-🌱 I’m currently learning **DSA and Database**<br>👨‍💻 All of my projects are available at https://owaisezarger.github.io/<br>📫 How to reach me owaisezarger@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1GWhM2CZatmshiEJs-c_azg_w4w0cC4-r/view?usp=sharing<br><br>
+🌱 Hi there! I'm Owaise Zarger, a full stack web developer with a passion for building high-quality web applications that are both functional and user-friendly. 
+
+I'm proficient in HTML, CSS, JS, ReactJS, Redux, NodeJS,ExpressJS and MongoDB, and I'm always eager to learn new technologies. I have a keen eye for design and user experience, and I believe that every aspect of a website or application should be carefully crafted to provide the best possible experience for users.
+I'm always looking for new challenges and opportunities to improve my skills and expand my knowledge.
+If you're interested in working with me or just want to chat about web development, feel free to reach out. 
+You can also check out some of my past projects and contributions on my GitHub profile. 
+Thanks for stopping by!
+<br>👨‍💻 All of my projects are available at https://owaisezarger.github.io/<br>
+📫 How to reach me owaisezarger@gmail.com<br>
+📄 Know about my experiences https://drive.google.com/file/d/1GWhM2CZatmshiEJs-c_azg_w4w0cC4-r/view?usp=sharing<br><br>
 
 
 ## 🌐 Socials:
